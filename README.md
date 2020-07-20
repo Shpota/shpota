@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋 I am Sasha. I love writing code and I am passionate about open source.
+I use Java, Kotlin, Go, TypeScript, and JavaScript. You might be interested in following
+me here on GitHub or [on twitter](https://twitter.com/sashashpota). I also have
+[a small blog](https://sashashpota.com/). Have a nice day!
 
 <!--
 **Shpota/shpota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
